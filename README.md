@@ -1,12 +1,12 @@
 # React Challenge
 
-Este é um desafio para testar seus conhecimentos em JavaScript, React e Redux;
+Este é um desafio para testar seus conhecimentos em TypeScript, React e Material-UI;
 
 Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua forma de codificação, e suas habilidades usando a tecnologia proposta.
 
 ## Obrigatoriedades
 
-O projeto deve utilizar webpack, e deve ser desenvolvido em React, e utilizar Redux para o carrinho de compras.
+O projeto deveser desenvolvido em React.
 
 O Front-End deve utilizar Material UI: https://material-ui-next.com/
 
