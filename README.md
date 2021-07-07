@@ -57,3 +57,9 @@ Após isso, rodar o comando: `json-server --watch rest-api/products.json`
 Isso irá disponibilizar uma api REST rodando no endereço http://localhost:3000/products.
 
 Um produto especifico pode ser acessado através da url http://localhost:3000/products/{id};
+
+## Design
+
+Criar o design, também, não é o foco deste teste, portanto está sendo disponibiilizado um design já criado para não perder tempo em pensar em uma melhor forma de apresentação do projeto.
+
+Para ver o design é somente [clicar aqui](https://www.figma.com/file/tSHZwmdp4hS95nZANscG9d/Untitled?node-id=0%3A1), será jogado para a página do Figma com o design.
