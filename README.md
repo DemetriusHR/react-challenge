@@ -8,7 +8,7 @@ Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua
 
 O projeto deveser desenvolvido em React.
 
-O Front-End deve utilizar Material UI: https://material-ui-next.com/
+O Front-End deve utilizar Material UI: https://material-ui.com/
 
 Os produtos disponíveis devem ser recuperados através de uma API Rest, disponibilizada neste mesmo projeto.
 
