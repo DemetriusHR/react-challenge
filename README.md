@@ -6,7 +6,7 @@ Neste teste existem várias respostas corretas, pois o objetivo é avaliar a sua
 
 ## Obrigatoriedades
 
-O projeto deveser desenvolvido em React.
+O projeto deve ser desenvolvido em React com Typescript e usar as ferramentas do próprio React, como por exemplo: Context e Hooks.
 
 O Front-End deve utilizar Material UI: https://material-ui.com/
 
